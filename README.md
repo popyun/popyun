@@ -7,6 +7,8 @@
 
 I work on securities technology delivery, turning complex business rules into implementable requirements and functional designs. I coordinate distributed teams through development, testing, and release. My AI work focuses on repetitive engineering tasks and prototype validation, with explicit review of outputs and limits.
 
+**求职方向 / Roles of interest:** 金融科技项目经理与交付经理；也考虑证券业务产品经理、需求分析岗位。 / FinTech project and delivery management; also securities product management and business analysis roles.
+
 ## 我能做什么 / What I bring
 
 | 方向 | 我的工作 / My work |
