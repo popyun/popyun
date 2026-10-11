@@ -125,12 +125,10 @@ Break a connected workflow into clear functions, rules, and checks so business a
 
 </details>
 
-## AI 赋能 / AI-enabled delivery
+## AI 赋能｜公司工作实践 / AI at work
 
-这里记录我如何在工作场景中使用 AI 改进交付方式，以及在个人项目中验证产品与技术方案。工作实践与个人作品分别标明，原型验证不写成生产应用。更多条目见 [AI 赋能专题索引](ai/README.md)。\
-This section separates AI use in professional work from independent projects. Each item states what was applied or validated; prototypes are not presented as production deployments. See the [AI practice index](ai/README.md) for the full list.
-
-### 公司工作实践 / AI in professional work
+**归属：公司工作；展示形式：脱敏职业案例。** 本栏记录实际工作中使用 AI 改进交付的实践。客户、内部代码和业务规则不公开。个人项目在下方独立成栏；完整分类见 [AI 赋能专题索引](ai/README.md)。\
+**Ownership: professional work; format: anonymized case study.** This section covers AI-assisted delivery in my work. Client details, internal code, and business rules are excluded. Independent projects have a separate section below; see the [AI practice index](ai/README.md).
 
 针对大量程序文件中的重复修改，我设计规则并借助 AI 实现批量工具，生成差异报告供团队复核，将重复工作转化为可检查的处理流程。 / I defined rules and used AI to help build a batch tool for repetitive changes across many program files, with diff reports for team review and an inspectable workflow.
 
@@ -164,14 +162,18 @@ Identify repetitive work with explicit rules, use AI to help build the tool, and
 
 </details>
 
-### 个人项目与验证原型 / Independent AI projects and prototypes
+## AI 赋能｜个人 AI 项目 / Personal AI projects
+
+**归属：个人独立项目；展示形式：公开工具仓库或产品验证概览。** 我负责问题定义、产品流程、规则核对和结果复核，使用 AI 辅助实现。各项目分别注明公开范围与验证状态。\
+**Ownership: independent projects; format: public repositories or product and validation overviews.** I define the problem, design the workflow, check rules, and review results, using AI to assist implementation. Each project states its public scope and validation status.
 
 | 作品 | 展示重点 | 状态 |
 | --- | --- | --- |
+| [履历工作台（简历生成辅助） / Resume Workbench](work/resume-workbench.md) | 从真实经历整理可核对的能力证据，生成可编辑的通用与岗位专用简历，并保留人工确认环节。 / Turns career history into reviewable evidence and editable general or job-specific resume drafts, with human confirmation. | 本地 MVP；公开产品与验证概览，源码和私人资料未公开。 / Local MVP; public product and validation overview, while source and personal data remain private. |
 | [金融业务知识平台原型 / Financial workflow knowledge prototype](work/financial-knowledge-prototype.md) | 虚构基金定投场景中的业务规则、需求追溯与分阶段验证。 / Business rules, traceability, and staged validation in a fictional fund workflow. | 公开设计与验证概览；完整源码尚未公开。 / Public design and validation overview; full source is not public. |
 | [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | 文档图像到结构化 Markdown 的处理流程、人工复核和可追溯输出。 / Image-to-Markdown workflow, human review, and traceable output. | [公开仓库 / Public repository](https://github.com/popyun/knowledgeImportHub) |
 | [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | 将同一任务拆成依赖完整流水线与便携实现的两个入口。 / Two task-specific interfaces for a full pipeline and a portable workflow. | [公开仓库 / Public repository](https://github.com/popyun/image-to-markdown-skills) |
 
-我使用 AI 辅助编写脚本和原型，重点负责问题定义、业务规则检查与结果复核。公开作品展示的是我如何把需求、方案和验证连接起来。 / I use AI to help build scripts and prototypes, with a focus on problem definition, business-rule checks, and review of results. These works show how I connect requirements, solutions, and validation.
+这些作品展示我如何把需求、方案和验证连接起来；本地原型不作为已公开部署的产品展示。 / These projects show how I connect requirements, solutions, and validation. Local prototypes are not presented as publicly deployed products.
 
 **联系 / Contact:** [popyun@126.com](mailto:popyun@126.com) · [GitHub @popyun](https://github.com/popyun)
