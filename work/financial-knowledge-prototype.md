@@ -31,3 +31,5 @@ In an evolving business system, requirements, business rules, design, implementa
 This page is a public product and validation overview. The full source, runtime, and local validation records are not public, so visitors cannot independently reproduce the local checks yet. A future source release will follow a review of dependencies, licensing, and publishable content.
 
 [返回主页 / Back to profile](../README.md)
+
+[AI 赋能专题 / AI practice index](../ai/README.md)
