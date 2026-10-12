@@ -9,6 +9,8 @@ I work on securities technology delivery, turning complex business rules into im
 
 **求职方向 / Roles of interest:** 金融科技项目经理与交付经理；也考虑证券业务产品经理、需求分析岗位。 / FinTech project and delivery management; also securities product management and business analysis roles.
 
+**项目总览 / Project catalog:** [查看 GitHub 项目目录](projects/README.md)，按公开范围与当前阶段浏览工作场景工具和个人项目。 / [Browse the project catalog](projects/README.md) by visibility and current stage.
+
 ## 我能做什么 / What I bring
 
 | 方向 | 我的工作 / My work |
@@ -171,9 +173,11 @@ Identify repetitive work with explicit rules, use AI to help build the tool, and
 | --- | --- | --- |
 | [履历工作台（简历生成辅助） / Resume Workbench](work/resume-workbench.md) | 从真实经历整理可核对的能力证据，生成可编辑的通用与岗位专用简历，并保留人工确认环节。 / Turns career history into reviewable evidence and editable general or job-specific resume drafts, with human confirmation. | 本地 MVP；公开产品与验证概览，源码和私人资料未公开。 / Local MVP; public product and validation overview, while source and personal data remain private. |
 | [金融业务知识平台原型 / Financial workflow knowledge prototype](work/financial-knowledge-prototype.md) | 虚构基金定投场景中的业务规则、需求追溯与分阶段验证。 / Business rules, traceability, and staged validation in a fictional fund workflow. | 公开设计与验证概览；完整源码尚未公开。 / Public design and validation overview; full source is not public. |
-| [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | 文档图像到结构化 Markdown 的处理流程、人工复核和可追溯输出。 / Image-to-Markdown workflow, human review, and traceable output. | [公开仓库 / Public repository](https://github.com/popyun/knowledgeImportHub) |
-| [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | 将同一任务拆成依赖完整流水线与便携实现的两个入口。 / Two task-specific interfaces for a full pipeline and a portable workflow. | [公开仓库 / Public repository](https://github.com/popyun/image-to-markdown-skills) |
+| [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | 文档图像到结构化 Markdown 的处理流程、人工复核和可追溯输出。 / Image-to-Markdown workflow, human review, and traceable output. | 公开 · 本地可用、迭代中 / Public · locally runnable, evolving |
+| [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | 将同一任务拆成依赖完整流水线与便携实现的两个入口。 / Two task-specific interfaces for a full pipeline and a portable workflow. | 公开 · 工具迭代中 / Public · tool in iteration |
 
 这些作品展示我如何把需求、方案和验证连接起来；本地原型不作为已公开部署的产品展示。 / These projects show how I connect requirements, solutions, and validation. Local prototypes are not presented as publicly deployed products.
+
+其他公开工具、非公开项目及各自阶段见[完整项目目录 / Full project catalog](projects/README.md)。
 
 **联系 / Contact:** [popyun@126.com](mailto:popyun@126.com) · [GitHub @popyun](https://github.com/popyun)
