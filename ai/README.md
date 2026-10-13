@@ -14,12 +14,16 @@ Professional outcomes distinguish my contribution from team validation. Other wo
 
 ## 个人 AI 项目 / Personal AI projects
 
-| 项目 / Project | 状态 / Status | 展示重点 / What it shows |
-| --- | --- | --- |
-| [履历工作台（简历生成辅助） / Resume Workbench](../work/resume-workbench.md) | 本地 MVP；公开产品与验证概览，源码和私人履历资料未公开。 / Local MVP; public product and validation overview, while source and personal career data remain private. | 将真实经历整理为待核对的证据，按岗位要求形成可编辑简历草稿，保留人工确认与版本记录。 / Turns career history into reviewable evidence and editable role-specific resume drafts, with human confirmation and versioning. |
-| [金融业务知识平台原型 / Financial workflow knowledge prototype](../work/financial-knowledge-prototype.md) | 本地设计、业务流程及固定样例精确查询已有验证；完整源码未公开，语义检索与模型回答尚未完成。 / Local design, workflow, and fixed-sample exact lookup have been validated; full source is not public, while semantic retrieval and model-generated answers remain unfinished. | 用虚构基金场景连接需求、规则、版本、实现与测试，并标明证据来源和验证边界。 / Connects requirements, rules, versions, implementation, and tests in a fictional fund workflow, with source and validation boundaries. |
-| [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | 公开 · 本地可用、迭代中 / Public · locally runnable, evolving | 文档图像处理、人工复核与可追溯 Markdown 输出。 / Document-image processing, human review, and traceable Markdown output. |
-| [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | 公开 · 工具迭代中 / Public · tool in iteration | 将图像转 Markdown 的任务封装为可复用的工作流入口。 / Reusable workflow interfaces for image-to-Markdown tasks. |
+公开与非公开项目并列展示；非公开项目只提供概述，不链接到私有仓库。 / Public and private projects appear together; private projects have descriptions but no repository links.
+
+| 项目 / Project | 公开状态 / Visibility | 进度阶段 / Stage | 展示重点 / What it shows |
+| --- | --- | --- | --- |
+| [履历工作台（简历生成辅助） / Resume Workbench](../work/resume-workbench.md) | **非公开源码；公开概览 / Private source; public overview** | 本地 MVP 验证 / Local MVP validation | 将真实经历整理为待核对的证据，形成可编辑的岗位简历草稿。 / Turns career history into reviewable evidence and editable role-specific drafts. |
+| [金融业务知识平台原型 / Financial workflow knowledge prototype](../work/financial-knowledge-prototype.md) | **非公开源码；公开概览 / Private source; public overview** | 原型验证 / Prototype validation | 用虚构基金场景连接需求、规则、版本与测试；语义检索和模型回答尚未完成。 / Connects requirements, rules, versions, and tests in a fictional fund workflow; semantic retrieval and model answers remain unfinished. |
+| [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | **公开仓库 / Public repository** | 本地可用、迭代中 / Locally runnable, evolving | 文档图像处理、人工复核与可追溯 Markdown 输出。 / Document-image processing, human review, and traceable Markdown output. |
+| [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | **公开仓库 / Public repository** | 工具迭代中 / Tool in iteration | 将图像转 Markdown 封装为可复用的工作流入口。 / Reusable image-to-Markdown workflows. |
+| Chat Digest | **非公开 / Private** | 本地运行、迭代中 / Running locally, evolving | 保存个人 AI 对话的可追溯原始快照。 / Captures traceable snapshots of personal AI conversations. |
+| Knowledge Compile | **非公开 / Private** | 规则与验证迭代 / Rules and validation iteration | 从原始资料建立可核对、带来源的知识条目；候选内容不直接发布。 / Builds source-linked, reviewable knowledge records; candidates are not published directly. |
 
 我负责问题定义、流程设计、业务规则核对与结果复核；AI 辅助编写脚本、原型和文档。后续验证方向会在形成可检查的结果后补充，不作为当前成果列示。\
 I define the problem, design the workflow, check business rules, and review results; AI assists with scripts, prototypes, and documentation. Future directions will appear as outcomes only after they have inspectable evidence.

@@ -166,18 +166,24 @@ Identify repetitive work with explicit rules, use AI to help build the tool, and
 
 ## AI 赋能｜个人 AI 项目 / Personal AI projects
 
-**归属：个人独立项目；展示形式：公开工具仓库或产品验证概览。** 我负责问题定义、产品流程、规则核对和结果复核，使用 AI 辅助实现。各项目分别注明公开范围与验证状态。\
-**Ownership: independent projects; format: public repositories or product and validation overviews.** I define the problem, design the workflow, check rules, and review results, using AI to assist implementation. Each project states its public scope and validation status.
+**归属：个人独立项目。** 公开仓库和非公开项目放在同一列表；「公开状态」只说明能看到什么，「进度阶段」说明目前做到了哪一步。 / **Ownership: independent projects.** Public and private work appear together; visibility says what visitors can inspect, while stage describes current progress.
 
-| 作品 | 展示重点 | 状态 |
-| --- | --- | --- |
-| [履历工作台（简历生成辅助） / Resume Workbench](work/resume-workbench.md) | 从真实经历整理可核对的能力证据，生成可编辑的通用与岗位专用简历，并保留人工确认环节。 / Turns career history into reviewable evidence and editable general or job-specific resume drafts, with human confirmation. | 本地 MVP；公开产品与验证概览，源码和私人资料未公开。 / Local MVP; public product and validation overview, while source and personal data remain private. |
-| [金融业务知识平台原型 / Financial workflow knowledge prototype](work/financial-knowledge-prototype.md) | 虚构基金定投场景中的业务规则、需求追溯与分阶段验证。 / Business rules, traceability, and staged validation in a fictional fund workflow. | 公开设计与验证概览；完整源码尚未公开。 / Public design and validation overview; full source is not public. |
-| [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | 文档图像到结构化 Markdown 的处理流程、人工复核和可追溯输出。 / Image-to-Markdown workflow, human review, and traceable output. | 公开 · 本地可用、迭代中 / Public · locally runnable, evolving |
-| [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | 将同一任务拆成依赖完整流水线与便携实现的两个入口。 / Two task-specific interfaces for a full pipeline and a portable workflow. | 公开 · 工具迭代中 / Public · tool in iteration |
+| 项目 / Project | 展示重点 / What it shows | 公开状态 / Visibility | 进度阶段 / Stage |
+| --- | --- | --- | --- |
+| [履历工作台（简历生成辅助） / Resume Workbench](work/resume-workbench.md) | 从真实经历整理可核对的证据，形成可编辑的通用与岗位专用简历。 / Reviewable career evidence and editable general or role-specific drafts. | **非公开源码；公开概览 / Private source; public overview** | 本地 MVP 验证 / Local MVP validation |
+| [金融业务知识平台原型 / Financial workflow knowledge prototype](work/financial-knowledge-prototype.md) | 在虚构基金场景中连接业务规则、需求与验证。 / Connects rules, requirements, and validation in a fictional fund workflow. | **非公开源码；公开概览 / Private source; public overview** | 原型验证 / Prototype validation |
+| [Obsidian Knowledge Import Hub](https://github.com/popyun/knowledgeImportHub) | 文档图像到可人工复核的 Markdown。 / Document images to reviewable Markdown. | **公开仓库 / Public repository** | 本地可用、迭代中 / Locally runnable, evolving |
+| [Image-to-Markdown Skills](https://github.com/popyun/image-to-markdown-skills) | 图像转 Markdown 的完整处理链与便携入口。 / Full-pipeline and portable image-to-Markdown workflows. | **公开仓库 / Public repository** | 工具迭代中 / Tool in iteration |
+| Chat Digest | 保存个人 AI 对话的可追溯原始快照。 / Traceable snapshots of personal AI conversations. | **非公开 / Private** | 本地运行、迭代中 / Running locally, evolving |
+| Knowledge Compile | 从原始资料建立可核对、带来源的知识条目。 / Source-linked, reviewable knowledge records. | **非公开 / Private** | 规则与验证迭代 / Rules and validation iteration |
 
-这些作品展示我如何把需求、方案和验证连接起来；本地原型不作为已公开部署的产品展示。 / These projects show how I connect requirements, solutions, and validation. Local prototypes are not presented as publicly deployed products.
+## 其他个人项目 / Other independent projects
 
-其他公开工具、非公开项目及各自阶段见[完整项目目录 / Full project catalog](projects/README.md)。
+| 项目 / Project | 展示重点 / What it shows | 公开状态 / Visibility | 进度阶段 / Stage |
+| --- | --- | --- | --- |
+| [Mac Float Console](https://github.com/popyun/mac-float-console) | macOS 浮窗查看 CPU、内存与 Codex 使用额度。 / A macOS floating panel for CPU, memory, and Codex quota. | **公开仓库 / Public repository** | 本地 MVP；未发布安装包 / Local MVP; no packaged release |
+| 自由行助手 / Travel Planning Assistant | 在杭州场景中试算可调整的行程，并显示资料核对状态。 / Adjustable Hangzhou itinerary estimates with source-review status. | **非公开 / Private** | 本地 MVP 验证 / Local MVP validation |
+
+非公开项目不提供仓库链接；工作场景工具、主页仓库和更完整的边界说明见[项目目录 / Project catalog](projects/README.md)。 / Private repositories have no public links. The [project catalog](projects/README.md) also covers the professional-work tool and profile repository.
 
 **联系 / Contact:** [popyun@126.com](mailto:popyun@126.com) · [GitHub @popyun](https://github.com/popyun)
