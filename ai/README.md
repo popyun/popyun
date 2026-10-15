@@ -5,6 +5,8 @@ This index separates **professional work** from **personal AI projects**. The fi
 
 ## 公司工作实践 / AI at work
 
+**脱敏与数据核查（2026-10-15）/ Redaction and data review:** 当前公开的批量修改案例及 [Agent Code & Test](https://github.com/popyun/agent-code-test) 仓库已核对。未发现客户或雇主标识、企业模板、内部源码、真实业务数据、非公开个人资料、凭证及私有路径；Agent 验证数据为合成状态。结论限于本次核查的公开版本。 / The published case and Agent repository were reviewed. No client or employer identifiers, organization-specific templates, proprietary source, real business data, private personal records, credentials, or private paths were found; Agent verification uses synthetic states. This finding is limited to the reviewed public versions.
+
 | 实践 / Practice | 公开状态 / Visibility | 进度阶段 / Stage | 说明与证据 / Description and evidence |
 | --- | --- | --- | --- |
 | [批量程序修改与复核 / Batch program changes and review](../cases/ai-assisted-batch-change.md) | 公开脱敏案例 / Public anonymized case | 已在实际工作中应用；团队完成复核。 / Applied in professional work; team review completed. | 定义修改规则，借助 AI 实现批量工具，生成逐文件差异报告；[主页可展开全文](../README.md)。 / Defined rules, used AI to help build a batch tool, and produced file-by-file diffs. |

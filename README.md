@@ -129,6 +129,9 @@ Break a connected workflow into clear functions, rules, and checks so business a
 
 ## AI 赋能｜公司工作实践 / AI at work
 
+> **公开版已脱敏（2026-10-15 核查） / Public versions reviewed for redaction:** 当前公开的批量修改案例与 [Agent Code & Test](https://github.com/popyun/agent-code-test) 仓库未发现客户或雇主标识、企业模板与内部源码、真实业务数据、非公开个人资料、凭证及私有路径。Agent 验证记录使用合成状态；批量修改案例不公开原始程序和规模、工时数据。此结论仅针对本次核查的公开版本，后续新增内容需重新核对。\
+> The published batch-change case and Agent repository were reviewed. No client or employer identifiers, organization-specific templates or proprietary source, real business data, private personal records, credentials, or private paths were found. Agent verification uses synthetic states; the batch-change case omits original programs and scale or time figures. This finding applies to the public versions reviewed on this date; later additions need a fresh check.
+
 **归属：公司工作场景；展示形式：脱敏案例与通用化公开项目。** 本栏记录实际应用及仍在验证的 AI 方案，并分别标明阶段。客户、内部代码和业务规则不公开。个人项目在下方独立成栏；完整分类见 [AI 赋能专题索引](ai/README.md)。\
 **Context: professional work; format: anonymized case study and generalized public project.** This section distinguishes applied work from a design still under validation. Client details, internal code, and business rules are excluded. Independent projects have a separate section below; see the [AI practice index](ai/README.md).
 
