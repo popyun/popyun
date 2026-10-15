@@ -129,8 +129,8 @@ Break a connected workflow into clear functions, rules, and checks so business a
 
 ## AI 赋能｜公司工作实践 / AI at work
 
-**归属：公司工作；展示形式：脱敏职业案例。** 本栏记录实际工作中使用 AI 改进交付的实践。客户、内部代码和业务规则不公开。个人项目在下方独立成栏；完整分类见 [AI 赋能专题索引](ai/README.md)。\
-**Ownership: professional work; format: anonymized case study.** This section covers AI-assisted delivery in my work. Client details, internal code, and business rules are excluded. Independent projects have a separate section below; see the [AI practice index](ai/README.md).
+**归属：公司工作场景；展示形式：脱敏案例与通用化公开项目。** 本栏记录实际应用及仍在验证的 AI 方案，并分别标明阶段。客户、内部代码和业务规则不公开。个人项目在下方独立成栏；完整分类见 [AI 赋能专题索引](ai/README.md)。\
+**Context: professional work; format: anonymized case study and generalized public project.** This section distinguishes applied work from a design still under validation. Client details, internal code, and business rules are excluded. Independent projects have a separate section below; see the [AI practice index](ai/README.md).
 
 针对大量程序文件中的重复修改，我设计规则并借助 AI 实现批量工具，生成差异报告供团队复核，将重复工作转化为可检查的处理流程。 / I defined rules and used AI to help build a batch tool for repetitive changes across many program files, with diff reports for team review and an inspectable workflow.
 
@@ -163,6 +163,13 @@ Identify repetitive work with explicit rules, use AI to help build the tool, and
 [独立页面 / Standalone page](cases/ai-assisted-batch-change.md)
 
 </details>
+
+### Agent 代码生成与测试 / Agent Code & Test
+
+这个[公开项目](https://github.com/popyun/agent-code-test)把工作场景中对 AI 辅助研发的思考整理为通用化方案：从需求与规则出发产生候选代码，用工程检查、独立预期和版本绑定的证据约束测试与修正。公开仓库是重写后的规格与抽象参考模型，不包含企业模板或内部源码。\
+This [public project](https://github.com/popyun/agent-code-test) turns lessons from a professional-work context into a generalized design for agent-assisted coding and testing. It connects requirements and rules to candidate code, engineering checks, independent expectations, and revision-bound evidence. The public repository contains a rewritten specification and an abstract reference model, without organization-specific templates or proprietary source.
+
+**公开状态 / Visibility:** [公开仓库 / Public repository](https://github.com/popyun/agent-code-test)。**进度阶段 / Stage:** 产品规格 2.2 与可运行的逻辑参考模型；真实模型接入、执行器及项目构建与测试适配尚未完成。 / Specification 2.2 and an executable logic reference model; real model integration, executor, and project build/test adapters remain unfinished.
 
 ## AI 赋能｜个人 AI 项目 / Personal AI projects
 

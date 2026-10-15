@@ -8,10 +8,11 @@ Stages reflect current repository documentation and recorded checks. MVP means a
 
 ## 工作场景相关 / Professional-work context
 
-以下是与工作场景有关的工具思路，不代表雇主正式产品或可公开的内部实现。 / The following tool relates to a professional-work context; it is not an official employer product or a disclosure of internal implementation.
+这里区分已公开的通用化 AI 方案与非公开的工作场景工具。两者都不代表雇主正式产品或可公开的内部实现。 / This section distinguishes a generalized public AI design from a private tool for a professional-work context. Neither is presented as an official employer product or a disclosure of internal implementation.
 
 | 项目 / Project | 公开范围 / Visibility | 当前阶段 / Stage | 说明 / What it shows |
 | --- | --- | --- | --- |
+| [Agent Code & Test](https://github.com/popyun/agent-code-test) | **公开通用化仓库 / Public generalized repository** | 产品规格 2.2 与可运行逻辑参考模型；真实接入待实现 / Specification 2.2 and executable logic reference model; real integration pending | 将 AI 辅助代码生成、工程检查、独立预期、测试和修正组织为可追溯流程；[验证说明](https://github.com/popyun/agent-code-test/blob/main/docs/verification.md)列出未运行的真实接入检查。 / A traceable design for agent-assisted coding, checks, independent expectations, testing, and repair; the verification notes list real integrations not yet run. |
 | 命令编排工具 / Command Orchestrator | **非公开 / Private** | 方案与原型迭代 / Design and prototype iteration | 探索如何把离线环境中的重复文件处理步骤组织成可检查的脚本流程。 / Explores inspectable script workflows for repetitive file tasks in an offline environment. |
 
 ## 个人项目 / Independent projects

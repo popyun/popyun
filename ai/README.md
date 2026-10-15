@@ -1,16 +1,17 @@
 # AI 赋能 / AI-enabled delivery
 
-本页按**成果归属**分为「公司工作实践」和「个人 AI 项目」。前者只展示脱敏后的工作案例；后者展示我的独立工具与产品验证。每项另标明实际应用或验证状态。公开内容不包含客户身份、内部代码、业务规则或生产数据。\
-This index separates **professional work** from **personal AI projects**. The first group contains anonymized workplace cases; the second contains independent tools and product experiments. Each item also states its implementation or validation status. Client identities, internal code, business rules, and production data are excluded.
+本页按**成果归属**分为「公司工作实践」和「个人 AI 项目」。前者展示脱敏后的工作案例及通用化公开方案；后者展示我的独立工具与产品验证。每项另标明实际应用或验证状态。公开内容不包含客户身份、内部代码、业务规则或生产数据。\
+This index separates **professional work** from **personal AI projects**. The first group contains an anonymized workplace case and a generalized public design; the second contains independent tools and product experiments. Each item states its implementation or validation status. Client identities, internal code, business rules, and production data are excluded.
 
 ## 公司工作实践 / AI at work
 
-| 实践 / Practice | 状态 / Status | 我的贡献与证据 / My contribution and evidence |
-| --- | --- | --- |
-| [批量程序修改与复核 / Batch program changes and review](../cases/ai-assisted-batch-change.md) | 已在实际工作中应用；人工复核由团队完成。 / Applied in professional work; team review completed. | 定义修改规则，借助 AI 实现并执行批量工具，生成逐文件差异报告；[主页也可展开全文](../README.md)。 / Defined change rules, used AI to help build and run a batch tool, and generated file-by-file diffs for team review. |
+| 实践 / Practice | 公开状态 / Visibility | 进度阶段 / Stage | 说明与证据 / Description and evidence |
+| --- | --- | --- | --- |
+| [批量程序修改与复核 / Batch program changes and review](../cases/ai-assisted-batch-change.md) | 公开脱敏案例 / Public anonymized case | 已在实际工作中应用；团队完成复核。 / Applied in professional work; team review completed. | 定义修改规则，借助 AI 实现批量工具，生成逐文件差异报告；[主页可展开全文](../README.md)。 / Defined rules, used AI to help build a batch tool, and produced file-by-file diffs. |
+| [Agent Code & Test](https://github.com/popyun/agent-code-test) | 公开通用化仓库 / Public generalized repository | 产品规格 2.2 与可运行的逻辑参考模型；真实接入待实现。 / Specification 2.2 and executable logic reference model; real integrations remain unfinished. | 将需求、代码生成、检查、测试与修正组织为可追溯流程；[查看验证范围](https://github.com/popyun/agent-code-test/blob/main/docs/verification.md)。 / A traceable design for requirements, generation, checks, testing, and repair, with documented validation limits. |
 
-这里的工作成果按本人职责与团队验证分别表述。其他公司场景的原型只有在完成脱敏、事实核对与公开审查后才会加入。\
-Professional outcomes distinguish my contribution from team validation. Other workplace prototypes will be added only after their scope and publishable details are checked.
+工作中已应用的成果与尚未真实接入的方案分别标注。公开 Agent 仓库不代表雇主正式产品或生产部署。\
+Applied work and designs without real integration are labelled separately. The public Agent repository is not presented as an official employer product or a production deployment.
 
 ## 个人 AI 项目 / Personal AI projects
 
